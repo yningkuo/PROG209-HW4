@@ -1,0 +1,31 @@
+h1{
+    color:blue;
+}
+
+/*1stPage */
+#the1stPage{
+    background-image:linear-gradient(to right,pink,ivory);
+    width: 400px;
+    height:300px;
+    display: block;
+
+}
+
+/*Hide the 2ndPage*/
+#the2ndPage{
+    background-image:linear-gradient(to left,pink,ivory);
+    width: 400px;
+    height:300px;
+    display: none;
+
+}
+
+#playbtn{
+    display:none;
+}
+#swapbtn{
+    display:inline-block;
+}
+#startbtn{
+    display:inline-block;
+}
